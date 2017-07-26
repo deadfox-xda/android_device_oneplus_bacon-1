@@ -205,7 +205,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     fstab.bacon \
     init.bacon.rc \
-    init.crkernel.rc \
     init.qcom.power.rc \
     init.qcom.usb.rc \
     init.recovery.bacon.rc \
