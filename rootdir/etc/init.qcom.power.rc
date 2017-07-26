@@ -106,8 +106,3 @@ on property:recovery.perf.mode=0
 
 on property:dev.bootcomplete=1
     rm /data/system/perfd/default_values
-<<<<<<< HEAD
-    setprop sys.io.scheduler "bfq"
-    start mpdecision
-=======
->>>>>>> 3b66849... bacon: introduce init.crkernel.rc
